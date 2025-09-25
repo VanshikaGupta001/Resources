@@ -1,9 +1,9 @@
 # Resources
 
-A Collection of Publicly Available Resources Compiled by the QC Club for Beginners interested in pursuing Quantum Computing
+A Collection of Publicly Available Resources Compiled by QC @ IITI for beginners interested in pursuing Quantum Computing. 
 
 > [!NOTE]
-> If any of the below links are broken, please raise an issue!
+> If any of the links given below are broken, please [raise an issue](https://github.com/qc-iiti/qc-Resources/issues)!
 
 ---
 

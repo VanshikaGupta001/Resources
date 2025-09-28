@@ -7,6 +7,12 @@ A Collection of Publicly Available Resources Compiled by QC @ IITI for beginners
 
 ---
 
+#### FreeCodeCamp Crash Course
+
+This quantum computing course provides a solid foundation in quantum computing, from the basics to an understanding of how popular quantum algorithms work. Quantum computing leverages the principles of quantum mechanics to process information at incredible speeds. 
+
+\[ [FCC Course](https://www.youtube.com/watch?v=tsbCSkvHhMo) \]
+
 #### *Quantum Computation & Quantum Information*, Nielsen & Chaung
 ISBN: 9780511976667
 
